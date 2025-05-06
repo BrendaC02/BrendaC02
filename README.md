@@ -1,6 +1,6 @@
 ### Olá, tudo Bem?
 #### Meu nome é Brenda
-#### Sou estudante de Análise e desenvolvimento de sistemas
+#### Sou formada em Análise e desenvolvimento de sistemas
 
 
 -----
